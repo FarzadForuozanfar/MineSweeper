@@ -1,0 +1,6 @@
+c:\users\win10\documents\visual studio 2015\Projects\Test_minesweeper\Test_minesweeper\bin\Debug\Test_minesweeper.exe.config
+c:\users\win10\documents\visual studio 2015\Projects\Test_minesweeper\Test_minesweeper\bin\Debug\Test_minesweeper.exe
+c:\users\win10\documents\visual studio 2015\Projects\Test_minesweeper\Test_minesweeper\bin\Debug\Test_minesweeper.pdb
+c:\users\win10\documents\visual studio 2015\Projects\Test_minesweeper\Test_minesweeper\obj\Debug\Test_minesweeper.csprojResolveAssemblyReference.cache
+c:\users\win10\documents\visual studio 2015\Projects\Test_minesweeper\Test_minesweeper\obj\Debug\Test_minesweeper.exe
+c:\users\win10\documents\visual studio 2015\Projects\Test_minesweeper\Test_minesweeper\obj\Debug\Test_minesweeper.pdb
