@@ -1,8 +1,10 @@
 
 # Game Play :
 #### Simple minesweeper in console application with this featueres:
+- Menu and select difficulty game
 - By giving the 2D coordinates to the entrance of the desired house, it will be opened
 - without use flag
+- with reset game
 
 
 
